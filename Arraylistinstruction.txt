@@ -1,0 +1,20 @@
+2009 exam Question 4 parts a and b (Watch video on how to tackle this here:  https://www.youtube.com/watch?v=4pF6xVOv-Wc&feature=youtu.be&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd&t=1
+2018 exam Question 2 parts a and b. (Watch video on how to tackle this here: https://www.youtube.com/watch?v=4pF6xVOv-Wc&feature=youtu.be&list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd&t=1
+2013 exam Question 1 parts a and b
+Along with those 2 videos, you might want to look at the other videos on ArrayLists that the College Board had last week:
+
+ArrayList Searching
+
+https://youtu.be/KXyDS-EQA50?list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd
+
+ArrayList Sorting
+
+https://youtu.be/2pMKlRKhuA8?list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd
+
+Developing Algorithms using ArrayLists and if statements
+
+https://youtu.be/bktW7rqWjUQ?list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd
+
+Developing Algorithms using ArrayLists. For and while loops
+
+https://youtu.be/-IYGY1JI60s?list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd
