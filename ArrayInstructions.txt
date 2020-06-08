@@ -1,0 +1,12 @@
+
+Posted:	Apr 14, 01:00 pm (about 1 month ago)
+Due:	Apr 19, 11:59 pm
+Given that the AP exam will now be exclusively two FRQs and the first question will be focused on Arrays/ArrayLists, this week’s graded assignment will be centered around FRQs focused on arrays.
+
+Accept the Github Classroom Assignment here: https://classroom.github.com/a/lXgZ7BjS
+
+Do the following problems:
+
+2013 exam Question 2 parts a and b (Watch video on how to tackle this here: https://youtu.be/W1USzNX2T8o?list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd
+2010 exam Question 3 parts a and b. (Watch video on how to tack this here: https://youtu.be/W4YSQrkGcuA?list=PLoGgviqq4845xKOY11PnkE7aqJC7-bYrd
+Each of these projects has unit test cases. You will need to pass all of the test cases to receive full credit. This assignment will go in the projects category.
